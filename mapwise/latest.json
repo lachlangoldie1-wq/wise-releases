@@ -1,0 +1,19 @@
+{
+  "app": "mapwise",
+  "version": "1.0.1",
+  "date": "8 Nov 2026",
+  "notes": "- **Update notifications**: Mapwise now checks for new versions, shows what's new, and can download, install and restart for you\n- Help › Check for updates, and Mapwise › Check for Updates… in the menu bar",
+  "page": "https://github.com/lachlangoldie1-wq/wise-releases/releases/tag/mapwise-v1.0.1",
+  "assets": {
+    "arm64": {
+      "url": "https://github.com/lachlangoldie1-wq/wise-releases/releases/download/mapwise-v1.0.1/Mapwise-mac-arm64.zip",
+      "sha256": "b657d1b6e1ae41009b9b0543c2734b501d4afc51cdfff11962f791cc56cd175d",
+      "size": 120121141
+    },
+    "x64": {
+      "url": "https://github.com/lachlangoldie1-wq/wise-releases/releases/download/mapwise-v1.0.1/Mapwise-mac-x64.zip",
+      "sha256": "2a0c639b088bb326774c052c3f1d0c2ab12dea502bc5a15c30f9d5cafe566313",
+      "size": 127122938
+    }
+  }
+}
